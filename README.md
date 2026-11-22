@@ -21,6 +21,11 @@
 4. Запустите `Russian_TTS_Server.exe` (появится черное окно, сверните его, но не закрывайте).
 5. В игре зайдите в `Настройки -> ИИ: речь`, выберите сервис **«Свой»** и укажите URL: `http://localhost:5050/v1`. потом настраивайте вот так
 <img width="1143" height="686" alt="image" src="https://github.com/user-attachments/assets/dffd00d2-6236-49d1-a15a-32e61c2668a1" />
+http://localhost:5050/v1
+test
+ru-RU-DmitryNeural
+ru-RU-SvetlanaNeural
+ru-RU-SvetlanaNeural
 6. и мод активировать не забудьте
 
 *Более подробная инструкция лежит внутри архива в файле `README.txt`.*
